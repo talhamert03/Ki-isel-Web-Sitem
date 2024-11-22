@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2333fe0b-eb73-42ce-906e-f54bb2c50a64" name="site" url="http://localhost/site">
+        <fileTransfer mountedRoot="C:\Users\talha\OneDrive\Masaüstü\ödev" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
